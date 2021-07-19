@@ -16,6 +16,8 @@
  * Original source: https://github.com/motley74/SmartThingsPublic/blob/master/devicetypes/motley74/osram-lightify-dimming-switch.src/osram-lightify-dimming-switch.groovy
  * This is modified on the bases made by AnotherUser
  * https://github.com/AnotherUser17/SmartThingsPublic-1/blob/master/devicetypes/AnotherUser/osram-lightify-4x-switch.src/osram-lightify-4x-switch.groovy
+ *
+ * v19072021 - Uploaded to Github. Initial release
  */
 
 
