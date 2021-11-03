@@ -28,7 +28,7 @@ metadata {
     attribute "released", "Number"
     attribute "held", "Number"
        
-		//fingerprint profileId: "0104", deviceId: "206", inClusters: "0000, 0001, 0003, 0020, FF17", outClusters: "0003, 0004, 0005, 0006, 0008, 0019, 0102", manufacturer: "Schneider Electric", model: "FLS/AIRLINK/4"
+		fingerprint inClusters: "0000,0001,0003,0020,1000,FC57", outClusters: "0003,0006,0008,0019,1000", manufacturer: "IKEA of Sweden", model: "Remote Control N2"
 	    
     }
     preferences {
